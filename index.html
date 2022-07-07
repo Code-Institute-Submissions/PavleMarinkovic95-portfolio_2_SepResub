@@ -11,6 +11,47 @@
     <title>Rock Paper Scissors Spook Lizard</title>
 </head>
 <body>
-    
+    <!--This is to center everything-->
+    <section class="game">
+        <!--Heading and a simple instruction image-->
+        <div class="title">Rock Paper Scissor Spok Lizard</div>
+        <div class="inst-image"></div>
+         
+          <!--Display the scores of player and computer as well as the moves made -->
+        <div class="score"> 
+            <div class="playerScore">
+                <h2 id="player-choice">Player: </h2>
+                <p class="player-count count">0</p>
+ 
+            </div>      
+            <div class="computerScore">
+                <h2 id="computer-choice">Computer: </h2>
+                <p class="computer-count count">0</p>
+ 
+            </div>
+        </div>
+       
+        <div class="move">Choose your move</div>
+         
+        <div class="movesleft">Moves Left: 15 </div>
+         
+          <!--options available to player to play game -->
+        <div class="options">
+            <button class="rock">Rock</button>
+            <button class="paper">Paper</button>
+            <button class="scissor">Scissors</button>
+            <button class="spok">Spok</button>  
+            <button class="lizard">Lizard</button>  
+        </div>
+         
+          <!--this shows the final result of game -->
+        <div class="result"></div>
+         
+          <!--Buttin to reload the game -->
+        <button class="reload"></button>
+ 
+    </section>
+ 
+    <script src="assets/js/script.js"></script>
 </body>
 </html>
