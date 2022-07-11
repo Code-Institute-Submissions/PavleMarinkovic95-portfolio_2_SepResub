@@ -22,4 +22,17 @@ As you can see, its a 1 defeats 2 and looses to the other 2 kinda game
 So you have about 40% chance to win, but probably less with my luck 
 ![Screenshot (47)](https://user-images.githubusercontent.com/105302576/178243071-c7f92a0d-8b50-41f5-8912-1636985d4a4e.png)
 
-Next we have
+Next we have code validations 
+
+This is for the HTML: 
+
+![Screenshot (45)](https://user-images.githubusercontent.com/105302576/178243289-405fda33-384e-463e-aae7-541d0522d9a1.png)
+
+
+This for the css validation: 
+![Screenshot (46)](https://user-images.githubusercontent.com/105302576/178243334-5e29084d-e5ab-4384-814a-d97f39286c48.png)
+
+
+And finnaly for the JS: 
+![Screenshot (44)](https://user-images.githubusercontent.com/105302576/178243532-f6370310-565f-4ac3-9de2-3544af543304.png)
+
