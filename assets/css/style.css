@@ -99,7 +99,7 @@
     cursor: pointer;
   }
   .reload:hover {
-    background: rgb(120, 255, 86);
+    background: rgb(87, 255, 45);
   }
   
   .result {
@@ -129,6 +129,7 @@
       transform: scale(2);
     }
 }
+/* Next more settings for small screens  */
 @media screen and (max-width: 320px) {
   .title{
     font-size: 1.5rem;
