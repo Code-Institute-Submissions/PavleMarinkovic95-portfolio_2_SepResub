@@ -13,10 +13,10 @@
       const rockBtn = document.querySelector('.rock');
       const paperBtn = document.querySelector('.paper');
       const scissorBtn = document.querySelector('.scissor');
-      const spokBtn = document.querySelector('.spok');
+      const spokBtn = document.querySelector('.spock');
       const lizardrBtn = document.querySelector('.lizard');
       const playerOptions = [rockBtn,paperBtn,scissorBtn, spokBtn,lizardrBtn];
-      const computerOptions = ['rock','paper','scissors','spok','lizard']
+      const computerOptions = ['rock','paper','scissors','spock','lizard']
       
       // Function to start playing and, random computor chice form 0 to 4 wich is 5 choices :)
       // Also to show each choice on each move 
@@ -60,7 +60,7 @@
         result.textContent = 'Draw!'
       }
       else if(player == 'rock'){
-        if(computer == 'paper' || computer == 'spok'){
+        if(computer == 'paper' || computer == 'spock'){
           result.textContent = 'Computer wins!';
           computerScore++;
           computerScoreBoard.textContent = computerScore;
@@ -72,7 +72,7 @@
         }
       }
       else if(player == 'scissors'){
-        if(computer == 'rock' || computer == 'spok'){
+        if(computer == 'rock' || computer == 'spock'){
           result.textContent = 'Computer wins!';
           computerScore++;
           computerScoreBoard.textContent = computerScore;
@@ -93,7 +93,7 @@
           playerScoreBoard.textContent = playerScore;
         }
       }
-      else if(player == 'spok'){
+      else if(player == 'spock'){
         if(computer == 'paper' || computer == 'lizard'){
           result.textContent = 'Computer wins!';
           computerScore++;
@@ -128,7 +128,7 @@
         option.style.display = 'none';
       })
   
-    
+      // Declearing the winner 
       chooseMove.innerText = 'Game Over!!'
       movesLeft.style.display = 'none';
   
@@ -144,7 +144,7 @@
       }
       else{
         result.style.fontSize = '2rem';
-        result.innerText = 'Tie';
+        result.innerText = 'Its a Draw!';
         result.style.color = 'grey'
       }
       reloadBtn.innerText = 'Restart';
