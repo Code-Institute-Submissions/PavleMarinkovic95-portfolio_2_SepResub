@@ -22,7 +22,17 @@ You have 5 options instead of 3
 The rules of the game are shown on the popup image that you can hover 
 As you can see, its a 1 defeats 2 and looses to the other 2 kinda game 
 So you have about 40% chance to win, but probably less with my luck 
+
+
 ![Screenshot (47)](https://user-images.githubusercontent.com/105302576/178243071-c7f92a0d-8b50-41f5-8912-1636985d4a4e.png)
+.
+.
+.
+This is the hovered over picture:
+.
+![Screenshot (48)](https://user-images.githubusercontent.com/105302576/178245149-d777fc12-edf2-428b-a2e5-46e78f1e5c9f.png)
+
+
 
 Next we have code validations 
 
