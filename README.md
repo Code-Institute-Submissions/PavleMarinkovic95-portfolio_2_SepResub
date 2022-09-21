@@ -73,7 +73,7 @@ The main objective is to play a complicated version of rock paper scissors. You 
 
 </br>
 
-<b>Testing the JavaScript code with Esproma @ : https://esprima.org/demo/validate.html </b>
+<b>Testing the JavaScript code with Esprima @ : https://esprima.org/demo/validate.html </b>
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/105302576/178243532-f6370310-565f-4ac3-9de2-3544af543304.png)
 
@@ -90,6 +90,8 @@ The main objective is to play a complicated version of rock paper scissors. You 
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/105302576/178243910-784bdfa9-ef4d-4a3d-be5a-2054e0517eb4.png)
 
+</br>
+
 <h2>Bugs and warnings</h2>
 
 No bugs were found during deployment and testing, there are warnings in JShint only related to modern sintax in JS ES6.
@@ -102,8 +104,15 @@ We navigate to my repository portfolio_2 for JavaScript essentials. From there w
 </br>
 Live link to the website: <b><a href="https://pavlemarinkovic95.github.io/portfolio_2/">The Rock Paper Scisors Spock Lizard game</a></b>
 
-<h2>Bugs and issues</h2>
-
-
 
 <h2>Attributions and Credits</h2>
+I was helped greatly by the Javascript programming video on the Youtube channel - Traversy Media.
+A good video can be found: <a href="https://www.youtube.com/watch?v=hdI2bqOjy3c">here</a>
+</br>
+I also took inspiration from a video: <a href="https://www.youtube.com/watch?v=n1_vHArDBRA">here</a> also on youtube.
+</br>
+I recieved mentorship and help from my mentor <a href="https://github.com/5pence" target="_blank">Spencer Barriball</a> . Big thank you to him!
+
+The image used for the explanation on how to play the game is found on a website <a href="https://laughingsquid.com/how-to-play-rock-paper-scissors-lizard-spock/">here</a>
+
+
