@@ -48,6 +48,15 @@ The main objective is to play a complicated version of rock paper scissors. You 
 ![Screenshot (88)](https://user-images.githubusercontent.com/105302576/191496589-8aa11112-a70e-47f0-ae69-68be361956ae.png)
 
 <h1>Technologies used in the project</h1>
+<b>The main technologies used in this project are as follows:</b>
+
+<ul>
+    <li>HTML: Website structure and layout was developed using the HTML language.</li>
+    <li>CSS: Styling of the page was with CSS using an external stylesheet - linked to the main HTML page.</li>
+    <li>Javascript: Website functionality and behind the scene logic was developed using JS language.</li>
+    <li>Github: Source code of the website is hosted on the my Github repository - push and commited from github desktop application on my local machine.</li>
+
+</ul>
 
 <h1>Testing and Validation</h1>
 
