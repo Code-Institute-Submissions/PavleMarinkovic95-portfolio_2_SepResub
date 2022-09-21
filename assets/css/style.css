@@ -27,6 +27,7 @@
   }
   /* the explanation image */
   .expl-image {
+    margin-top: 170px;
     height: 200px;
     width: 200px;
     border-radius: 5%;
@@ -81,8 +82,9 @@
     background: red;
 
   }
-  
+  /* Center choose your move text */
   .move {
+    margin-top: 5%;
     font-size: 2rem;
     font-weight: bold;
   }
@@ -110,6 +112,9 @@
   /* Responsive Design */
   @media screen and (max-width: 768px)
   {
+    .move{
+      font-size: 1.5rem;
+    }
     .title{
       text-align: center;
       height: 100px;
@@ -128,8 +133,36 @@
     .expl-image:hover{
       transform: scale(2);
     }
+    .expl-image {
+      margin-top: 50px;
+    }
 }
-/* Next more settings for small screens  */
+/* Settings for screens smaller than 430px  */
+@media screen and (max-width: 430px) {
+  .title{
+    font-size: 1.5rem;
+    height: 60px;
+  }
+  .score{
+    top: 70px;
+  }
+  .expl-image{
+    height: 180px;
+    width: 180px;
+  }
+  .expl-image:hover{
+    transform: scale(1.5);
+  }
+  .rock, .paper, .scissor, .spock, .lizard {
+    transform: scale(0.8);
+  }
+  .options{
+    display: inline;
+    text-align: center;
+  }
+}
+
+/* Design for screens smaller of the size of 320px */
 @media screen and (max-width: 320px) {
   .title{
     font-size: 1.5rem;
@@ -144,5 +177,20 @@
   }
   .expl-image:hover{
     transform: scale(1.5);
+  }
+}
+
+/* Design for the smallest screens, up to or under 280px  */
+@media screen and (max-width: 280px) {
+  .title{
+    font-size: 1.1rem;
+    height: 50px;
+  }
+  .score{
+    top: 60px;
+  }
+  .expl-image{
+    height: 160px;
+    width: 160px;
   }
 }
