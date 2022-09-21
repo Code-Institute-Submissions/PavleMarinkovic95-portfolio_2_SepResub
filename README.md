@@ -13,10 +13,11 @@ The main look of the game across different screens.
 
 
 
-This is the main look of the game on different screens
+<h1>Project idea</h1>
 
-The main objective is to play a complicated version of rock paper scissors.You have 5 options instead of 3. The rock defeats scissors and the lizard. The scissors defeat paper and lizard. The paper defeats rock and spock.The spock defeats scissors and rock. And finally, the lizard defeats spock and paper.The rules of the game are shown on the popup image that you can hover.As we can see, it's a 1 defeats 2 and looses to the other 2 logic in the gameSo you have about 40% chance to win, but that's not precise as I didn't calculate the statistics.
+The main objective is to play a complicated version of rock paper scissors. You have 5 options instead of 3. The rock defeats scissors and the lizard. The scissors defeat paper and lizard. The paper defeats rock and spock.The spock defeats scissors and rock. And finally, the lizard defeats spock and paper. The rules of the game are shown on the popup image that you can hover. As we can see, it's a 1 defeats 2 and looses to the other 2 logic in the gameSo you have about 40% chance to win, but that's not precise as I didn't calculate the statistics.
 
+<h1>Screenshots</h1>
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/105302576/178243071-c7f92a0d-8b50-41f5-8912-1636985d4a4e.png)
 .
@@ -27,9 +28,9 @@ This is the hovered over picture:
 ![Screenshot (48)](https://user-images.githubusercontent.com/105302576/178245149-d777fc12-edf2-428b-a2e5-46e78f1e5c9f.png)
 
 
+<h1>Technologies used in the project</h1>
 
-Next we have code validations 
-
+<h1>Testing and Validation</h1>
 
 
 This is for the HTML: 
@@ -55,5 +56,6 @@ I have also used Google Lighthouse to check my sites performance:
 ![Screenshot (50)](https://user-images.githubusercontent.com/105302576/178243910-784bdfa9-ef4d-4a3d-be5a-2054e0517eb4.png)
 
 
-.
-Finnaly I hope you like the game and good luck :)
+<h1>Deployment</h1>
+<h2>Bugs and issues</h2>
+<h2>Attributions and Credits</h2>
