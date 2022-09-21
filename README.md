@@ -81,7 +81,8 @@ The main objective is to play a complicated version of rock paper scissors. You 
 
 <b>Testing with JShint @ https://jshint.com/</b>
 
--
+![Screenshot (89)](https://user-images.githubusercontent.com/105302576/191511518-e3bc3e3d-3234-4868-a0e7-d0ccd6537457.png)
+
 
 </br>
 
