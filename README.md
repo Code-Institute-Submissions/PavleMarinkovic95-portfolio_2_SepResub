@@ -15,7 +15,7 @@ Live page here --> https://pavlemarinkovic95.github.io/portfolio_2/
 
 <h1>Project idea</h1>
 
-The main objective is to play a complicated version of rock paper scissors. You have 5 options instead of 3. The rock defeats scissors and the lizard. The scissors defeat paper and lizard. The paper defeats rock and spock.The spock defeats scissors and rock. And finally, the lizard defeats spock and paper. The rules of the game are shown on the popup image that you can hover. As we can see, it's a 1 defeats 2 and looses to the other 2 logic in the gameSo you have about 40% chance to win, but that's not precise as I didn't calculate the statistics.
+The main objective is to play a complicated version of rock paper scissors. You have 5 options instead of 3. The rock defeats scissors and the lizard. The scissors defeat paper and lizard. The paper defeats rock and spock.The spock defeats scissors and rock. And finally, the lizard defeats spock and paper. The rules of the game are shown on the popup image that you can hover. As we can see, it's a 1 defeats 2 and looses to the other 2 logic in the game. So you have about 40% chance to win, but that's not precise as I didn't calculate the statistics.
 
 <h1>Screenshots</h1>
 <h3>Begining of game</h3>
@@ -85,5 +85,11 @@ The main objective is to play a complicated version of rock paper scissors. You 
 
 
 <h1>Deployment</h1>
+
+The website deployment is done using the GitHub Pages option provided for free by GitHub.
+First I Login using my credentials to my personal Github profile.
+We navigate to my repository portfolio_2 for JavaScript essentials. From there we go to settings and on the dropdown menu on the left we select pages. The main branch is chosen, then deployed and updated automaticly.
+Live link to the website: <b><a href="https://pavlemarinkovic95.github.io/portfolio_2/">The Rock Paper Scisors Spock Lizard game</a></b>
+
 <h2>Bugs and issues</h2>
 <h2>Attributions and Credits</h2>
