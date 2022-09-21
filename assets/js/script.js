@@ -16,7 +16,7 @@ const game = () => {
     const spokBtn = document.querySelector('.spock');
     const lizardrBtn = document.querySelector('.lizard');
     const playerOptions = [rockBtn,paperBtn,scissorBtn, spokBtn,lizardrBtn];
-    const computerOptions = ['rock','paper','scissors','spock','lizard']
+    const computerOptions = ['rock','paper','scissors','spock','lizard'];
     
     // Function to start playing and, random computor chice form 0 to 4 wich is 5 choices :)
     // Also to show each choice on each move 
@@ -38,16 +38,16 @@ const game = () => {
         computerText.textContent = `Computor: ${computerChoice}`;
 
         // Function to check who wins
-        winner(this.innerText,computerChoice)
+        winner(this.innerText,computerChoice);
         
         // Calling gameover function after 15 moves
         if(moves == 15){
           gameOver(playerOptions,movesLeft);
         }
-      })
-    })
+      });
+    });
     
-  }
+  };
 
   // Function to decide winner
   const winner = (player,computer) => {
@@ -57,7 +57,7 @@ const game = () => {
     player = player.toLowerCase();
     computer = computer.toLowerCase();
     if(player === computer){
-      result.textContent = 'Draw!'
+      result.textContent = 'Draw!';
     }
     else if(player == 'rock'){
       if(computer == 'paper' || computer == 'spock'){
@@ -115,7 +115,7 @@ const game = () => {
         playerScoreBoard.textContent = playerScore;
       }
     }
-  }
+  };
 
   // Function to run when game is over
   const gameOver = (playerOptions,movesLeft) => {
@@ -126,15 +126,15 @@ const game = () => {
 
     playerOptions.forEach(option => {
       option.style.display = 'none';
-    })
+    });
 
     // Declearing the winner 
-    chooseMove.innerText = 'Game Over!!'
+    chooseMove.innerText = 'Game Over!!';
     movesLeft.style.display = 'none';
 
     if(playerScore > computerScore){
       result.style.fontSize = '2rem';
-      result.innerText = 'You Won The Game'
+      result.innerText = 'You Won The Game';
       result.style.color = '#308D46';
     }
     else if(playerScore < computerScore){
@@ -145,19 +145,19 @@ const game = () => {
     else{
       result.style.fontSize = '2rem';
       result.innerText = 'Its a Draw!';
-      result.style.color = 'grey'
+      result.style.color = 'grey';
     }
     reloadBtn.innerText = 'Restart';
-    reloadBtn.style.display = 'flex'
+    reloadBtn.style.display = 'flex';
     reloadBtn.addEventListener('click',() => {
       window.location.reload();
-    })
-  }
+    });
+  };
 
   // Calling playGame function inside game
   playGame();
 
-}
+};
 
 // Calling the game function
 game();
