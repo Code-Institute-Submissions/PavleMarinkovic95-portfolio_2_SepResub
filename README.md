@@ -1,15 +1,13 @@
 # portfolio_2
 Second portfolio project for code institute.
 
-In this second project I will create a rock paper scisors spock lizard game 
-A game with 5 different tools at your disposal as you play vs the computer
-This game of RNG and chance will test your luck, not your skill or kwnoledge 
+In this second project I will create a rock paper scissors spock lizard game. A game with 5 different tools at your disposal as you play vs. the computer.This game of chance will test your luck and intuition, not your skill or knowledge.
 
-Enjoy ! :D
+Enjoy!
 
 Guthub pages here --> https://pavlemarinkovic95.github.io/portfolio_2/
 
-The main look of the game ===>
+The main look of the game across different screens.
 
 ![Screenshot_20220710_155431](https://user-images.githubusercontent.com/105302576/178242448-6835caff-442c-4f41-a3c3-625c3c24cd84.png)
 
@@ -17,11 +15,7 @@ The main look of the game ===>
 
 This is the main look of the game on different screens
 
-The main objective is to play a complicated version of rock paper scissors 
-You have 5 options instead of 3
-The rules of the game are shown on the popup image that you can hover 
-As you can see, its a 1 defeats 2 and looses to the other 2 kinda game 
-So you have about 40% chance to win, but probably less with my luck 
+The main objective is to play a complicated version of rock paper scissors.You have 5 options instead of 3. The rock defeats scissors and the lizard. The scissors defeat paper and lizard. The paper defeats rock and spock.The spock defeats scissors and rock. And finally, the lizard defeats spock and paper.The rules of the game are shown on the popup image that you can hover.As we can see, it's a 1 defeats 2 and looses to the other 2 logic in the gameSo you have about 40% chance to win, but that's not precise as I didn't calculate the statistics.
 
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/105302576/178243071-c7f92a0d-8b50-41f5-8912-1636985d4a4e.png)
