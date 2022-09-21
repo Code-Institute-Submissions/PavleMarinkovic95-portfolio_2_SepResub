@@ -29,15 +29,19 @@ The main objective is to play a complicated version of rock paper scissors. You 
 
 </br>
 <h3>Mid-game</h3>
+![Screenshot (85)](https://user-images.githubusercontent.com/105302576/191496478-9dbc80f3-a626-4f3c-b6d1-1220b4aabaed.png)
 
 </br>
 <h3>On Loose</h3>
+![Screenshot (86)](https://user-images.githubusercontent.com/105302576/191496529-f2da8b63-7959-43f8-93c9-f49a709d8efe.png)
 
 </br>
 <h3>On Draw</h3>
+![Screenshot (87)](https://user-images.githubusercontent.com/105302576/191496560-27fd11d6-5324-4557-a9a4-4dd1c1f0a519.png)
 
 </br>
 <h3>On Win</h3>
+![Screenshot (88)](https://user-images.githubusercontent.com/105302576/191496589-8aa11112-a70e-47f0-ae69-68be361956ae.png)
 
 <h1>Technologies used in the project</h1>
 
