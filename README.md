@@ -73,9 +73,15 @@ The main objective is to play a complicated version of rock paper scissors. You 
 
 </br>
 
-<b>And finaly testing the JavaScript code with Esproma @ : https://esprima.org/demo/validate.html </b>
+<b>Testing the JavaScript code with Esproma @ : https://esprima.org/demo/validate.html </b>
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/105302576/178243532-f6370310-565f-4ac3-9de2-3544af543304.png)
+
+</br>
+
+<b>Testing with JShint @ https://jshint.com/</b>
+
+-
 
 </br>
 
@@ -83,13 +89,20 @@ The main objective is to play a complicated version of rock paper scissors. You 
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/105302576/178243910-784bdfa9-ef4d-4a3d-be5a-2054e0517eb4.png)
 
+<h2>Bugs and warnings</h2>
+
+No bugs were found during deployment and testing, there are warnings in JShint only related to modern sintax in JS ES6.
 
 <h1>Deployment</h1>
 
 The website deployment is done using the GitHub Pages option provided for free by GitHub.
 First I Login using my credentials to my personal Github profile.
 We navigate to my repository portfolio_2 for JavaScript essentials. From there we go to settings and on the dropdown menu on the left we select pages. The main branch is chosen, then deployed and updated automaticly.
+</br>
 Live link to the website: <b><a href="https://pavlemarinkovic95.github.io/portfolio_2/">The Rock Paper Scisors Spock Lizard game</a></b>
 
 <h2>Bugs and issues</h2>
+
+
+
 <h2>Attributions and Credits</h2>
