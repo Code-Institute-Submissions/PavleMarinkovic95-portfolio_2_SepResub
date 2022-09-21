@@ -5,9 +5,9 @@ In this second project I will create a rock paper scissors spock lizard game. A 
 
 Enjoy!
 
-Guthub pages here --> https://pavlemarinkovic95.github.io/portfolio_2/
+Live page here --> https://pavlemarinkovic95.github.io/portfolio_2/
 
-The main look of the game across different screens.
+<h2>The main look of the game across different screens.</h2>
 
 ![Screenshot_20220710_155431](https://user-images.githubusercontent.com/105302576/178242448-6835caff-442c-4f41-a3c3-625c3c24cd84.png)
 
@@ -18,15 +18,26 @@ The main look of the game across different screens.
 The main objective is to play a complicated version of rock paper scissors. You have 5 options instead of 3. The rock defeats scissors and the lizard. The scissors defeat paper and lizard. The paper defeats rock and spock.The spock defeats scissors and rock. And finally, the lizard defeats spock and paper. The rules of the game are shown on the popup image that you can hover. As we can see, it's a 1 defeats 2 and looses to the other 2 logic in the gameSo you have about 40% chance to win, but that's not precise as I didn't calculate the statistics.
 
 <h1>Screenshots</h1>
+<h3>Begining of game</h3>
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/105302576/178243071-c7f92a0d-8b50-41f5-8912-1636985d4a4e.png)
-.
-.
-.
-This is the hovered over picture:
-.
+
+</br>
+<h3>On hover</h3>
+
 ![Screenshot (48)](https://user-images.githubusercontent.com/105302576/178245149-d777fc12-edf2-428b-a2e5-46e78f1e5c9f.png)
 
+</br>
+<h3>Mid-game</h3>
+
+</br>
+<h3>On Loose</h3>
+
+</br>
+<h3>On Draw</h3>
+
+</br>
+<h3>On Win</h3>
 
 <h1>Technologies used in the project</h1>
 
