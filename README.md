@@ -61,25 +61,25 @@ The main objective is to play a complicated version of rock paper scissors. You 
 <h1>Testing and Validation</h1>
 
 
-This is for the HTML: 
+<b>HTML tested @ https://validator.w3.org/ : </b>
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/105302576/178243289-405fda33-384e-463e-aae7-541d0522d9a1.png)
 
+</br>
 
+<b>CSS tested @ https://jigsaw.w3.org/css-validator/ : <b>
 
-
-This for the css validation: 
 ![Screenshot (46)](https://user-images.githubusercontent.com/105302576/178243334-5e29084d-e5ab-4384-814a-d97f39286c48.png)
 
+</br>
 
-.
+<b>And finaly testing the JavaScript code with Esproma @ : https://esprima.org/demo/validate.html </b>
 
-And finnaly for the JS: 
 ![Screenshot (44)](https://user-images.githubusercontent.com/105302576/178243532-f6370310-565f-4ac3-9de2-3544af543304.png)
 
+</br>
 
-
-I have also used Google Lighthouse to check my sites performance:
+<b>Google Lighthouse is used to check the site performance In Google dev tools: </b>
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/105302576/178243910-784bdfa9-ef4d-4a3d-be5a-2054e0517eb4.png)
 
