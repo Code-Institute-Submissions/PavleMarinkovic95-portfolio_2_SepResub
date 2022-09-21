@@ -109,7 +109,7 @@ Live link to the website: <b><a href="https://pavlemarinkovic95.github.io/portfo
 I was helped greatly by the Javascript programming video on the Youtube channel - Traversy Media.
 A good video can be found: <a href="https://www.youtube.com/watch?v=hdI2bqOjy3c">here</a>
 </br>
-I also took inspiration from a video: <a href="https://www.youtube.com/watch?v=n1_vHArDBRA">here</a> also on youtube.
+I also took inspiration from a video from Web Dev Simplified: <a href="https://www.youtube.com/watch?v=1yS-JV4fWqY">here</a> also on youtube.
 </br>
 I recieved mentorship and help from my mentor <a href="https://github.com/5pence" target="_blank">Spencer Barriball</a> . Big thank you to him!
 
