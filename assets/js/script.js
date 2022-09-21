@@ -16,7 +16,7 @@ const game = () => {
     const spokBtn = document.querySelector('.spock');
     const lizardrBtn = document.querySelector('.lizard');
     const playerOptions = [rockBtn,paperBtn,scissorBtn, spokBtn,lizardrBtn];
-    const computerOptions = ['rock','paper','scissors','spock','lizard'];
+    const computerOptions = ['Rock','Paper','Scissors','Spock','Lizard'];
     
     // Function to start playing and, random computer choice form 0 to 4 wich is 5 choices.
     // Also to show each choice on each move 
@@ -35,7 +35,7 @@ const game = () => {
         const choiceNumber = Math.floor(Math.random()*5);
         const computerChoice = computerOptions[choiceNumber];
         
-        computerText.textContent = `Computor: ${computerChoice}`;
+        computerText.textContent = `Computer: ${computerChoice}`;
 
         // Function to check who wins
         winner(this.innerText,computerChoice);
